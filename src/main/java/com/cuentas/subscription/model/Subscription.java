@@ -34,7 +34,7 @@ public class Subscription {
     private String nameLegalRepresentative;
 
     @Column(name = "idlegalrepresentative")
-    private int idLegalRepresentative;
+    private Integer idLegalRepresentative;
 
     @Column(name = "linkdate")
     private String linkDate;
